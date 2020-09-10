@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">PemesananGG</string>
+    <string name="app_name">Pemesanan</string>
+    <string name="home">Home</string>
+    <string name="order">Order</string>
+    <string name="profil">Profil</string>
+
 </resources>
